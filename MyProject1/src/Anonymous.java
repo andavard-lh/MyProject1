@@ -1,3 +1,4 @@
+/* this commment should appear in the outpout */
 class base{
 	int a;
 	base(int x)
@@ -9,6 +10,7 @@ class base{
 		System.out.println("inside base");
 	}
 }
+
 public class Anonymous {
 
 	public static void main(String[] args) {
